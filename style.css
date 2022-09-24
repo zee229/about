@@ -77,12 +77,13 @@ img.gif{
   color: #A9A9A9;
   font-size: 0.7em;
   line-height: 2em;
+  margin-bottom: 70px;
 }
+
 
 /*SKILLS*/
 
 .skills {
-  
   text-align: center;
   padding-bottom: 30px;
 }
