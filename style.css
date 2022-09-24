@@ -61,8 +61,13 @@ nav h2{
   border: 8px solid #fff;
   padding: 40px;
   margin: 100px auto;
-  max-width: px;
+  max-width: 600px;
   text-align: center;
+}
+
+img.gif{
+  max-width: 500px;
+  height: auto;
 }
 
 /*SECTION ABOUT ME*/
@@ -79,6 +84,7 @@ nav h2{
 .skills {
   
   text-align: center;
+  padding-bottom: 30px;
 }
 .sk {
   width: 40%;
