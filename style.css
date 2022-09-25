@@ -39,7 +39,6 @@ nav ul li {
   list-style: none;
   display: inline-block;
   font-size: 0.7em;
-  
 }
 
 nav a {
@@ -48,7 +47,6 @@ nav a {
 }
 
 nav a:hover {
-  
   color: #fff;
 }
 
@@ -93,7 +91,6 @@ img.gif{
   padding-bottom: 500px;
 }
 .sk {
-  
   margin: auto;
   padding: 10px;
   width: 40%;
