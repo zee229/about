@@ -61,7 +61,7 @@ h2.myname {
 .main{
   border: 8px solid #fff;
   padding: 3%;
-  margin: 100px 3%; 
+  margin: 100px auto;
   max-width: 600px;
   text-align: center;
 }
