@@ -23,6 +23,7 @@ header, .main, section {
 nav {
   padding: 10px;
   background-color: #ADADAD;
+  
 }
 ul, h2 {
   background-color: #ADADAD;
@@ -31,7 +32,7 @@ ul, h2 {
 
 nav ul{
   padding: 0 20px;
-  
+  text-align: left;
   
 }
 nav ul li {
@@ -51,10 +52,9 @@ nav a:hover {
   color: #fff;
 }
 
-nav h2{
+h2.myname {
+  margin-left: 5%;
   font-size: 1.3em;
-  
-  
 }
 /*MAIN*/
 .main{
@@ -66,8 +66,11 @@ nav h2{
 }
 
 img.gif{
-  max-width: 500px;
+  max-width: 100%;
   height: auto;
+  display: block;
+  margin: 0 auto;
+  border: none;
 }
 
 /*SECTION ABOUT ME*/
@@ -85,13 +88,17 @@ img.gif{
 
 .skills {
   text-align: center;
-  padding-bottom: 30px;
+  line-height: 130px;
+  height: 130px;
+  padding-bottom: 500px;
 }
 .sk {
+  
+  margin: auto;
+  padding: 10px;
   width: 40%;
   background: #00A8A8;
   margin-right: 10px;
-  padding: 80px;
   display: inline-block;
   height: 200px;
   box-shadow: 15px 15px rgba(0, 0, 0, 0.5);
